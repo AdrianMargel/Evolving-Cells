@@ -1,4 +1,4 @@
-# Evolving-Cells
+# Evolving Cells
 A life-like cellular automata with an evolving ruleset
 ![cellular automata](https://i.imgur.com/FtwEKWa.png)
 
