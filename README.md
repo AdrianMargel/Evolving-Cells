@@ -6,6 +6,6 @@ I created this to experiment with the viability of using cellular automata as a 
 
 The results from this program have served as inspiration for many of the larger experiments I've done with artificial life. Although a relatively simple test I still believe the results are quite fascinating and hint at a lot of unexplored potential with these kinds of systems.
 
-The code was written winter 2017.
+The code was written fall 2016.
 
 
