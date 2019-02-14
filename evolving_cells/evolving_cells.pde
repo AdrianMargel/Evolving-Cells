@@ -5,7 +5,7 @@
   Many cellular automata rule sets are able to exist at the same time and compete with eachother.
   This causes evolution to occur and the emergance of simple eco-systems. 
   
-  written by Adrian Margel, Winter 2017
+  written by Adrian Margel, Fall 2016
 */
 
 //camera position
